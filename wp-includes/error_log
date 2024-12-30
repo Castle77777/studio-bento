@@ -1,0 +1,16 @@
+[03-Nov-2024 06:35:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/vztqbymy/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/vztqbymy/public_html/wp-includes/class.wp-styles.php on line 11
+[03-Nov-2024 06:35:58 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/vztqbymy/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/vztqbymy/public_html/wp-includes/wp-diff.php on line 13
+[04-Nov-2024 17:02:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/vztqbymy/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/vztqbymy/public_html/wp-includes/class.wp-styles.php on line 11
+[04-Nov-2024 17:02:31 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/vztqbymy/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/vztqbymy/public_html/wp-includes/wp-diff.php on line 13

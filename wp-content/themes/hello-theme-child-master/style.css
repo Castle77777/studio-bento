@@ -1,0 +1,31 @@
+/* 
+Theme Name: Hello Elementor Child
+Theme URI: https://github.com/elementor/hello-theme-child/
+Description: Hello Elementor Child is a child theme of Hello Elementor, created by Elementor team
+Author: Elementor Team
+Author URI: https://elementor.com/
+Template: hello-elementor
+Version: 2.0.0
+Text Domain: hello-elementor-child
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/* Add your custom styles here */
+
+
+/* Section Title CSS Starts */
+.section-title{}
+.section-title h1{}
+.section-title h2{}
+
+.section-title h1 span, .section-title h2 span{color: var(--e-global-color-secondary);}
+/* Section Title CSS Ends */
+
+/* Studio Section CSS Starts */
+.img-text-links{}
+.img-text-links ul{}
+.img-text-links ul li.elementor-icon-list-item{padding: 10px 20px;border-top: 1px solid rgba(255, 255, 255, 0.5);}
+.img-text-links ul li.elementor-icon-list-item:last-child{border-bottom: 1px solid rgba(255, 255, 255, 0.5);}
+/* Studio Section CSS Ends */
