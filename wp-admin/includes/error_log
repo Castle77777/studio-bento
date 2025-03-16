@@ -1,0 +1,4 @@
+[27-Dec-2023 15:11:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/vztqbymy/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/vztqbymy/public_html/wp-admin/includes/file.php on line 16
